@@ -11,3 +11,5 @@ git push origin main
 エラーの場合  
 git pull origin main  
 をして再びpush  
+
+こんふりくと
