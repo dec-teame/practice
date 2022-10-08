@@ -8,9 +8,14 @@ git commit -m "massage"
 git push origin main  
 ```
 
-エラーの場合  
+エラーが発生した場合、一度pullする。
+
+```.bash
 git pull origin main  
+```
 
-をして再びpush
+をして再び
 
-aaa
+```.bash
+git push origin main
+```
