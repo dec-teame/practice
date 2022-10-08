@@ -9,6 +9,9 @@ git push origin main
 ```
 
 エラーの場合  
+
+```.bash
 git pull origin main  
+
 をして再びpush
 
