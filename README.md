@@ -19,3 +19,6 @@ git pull origin main
 ```.bash
 git push origin main
 ```
+
+
+わざと`conflic`起こさせる。
